@@ -5,4 +5,4 @@ This repo contains a pipeline for a fully automated calibration pipeline handlin
 
 The pipeline were developed as a benchmark to compare with the performance of manual modelling building conduted by more or less experienced chemometricians. 
 
-The OB.m contains the pipeline, while the rest of the functionallity is engined by the PLS toolbox (Eigenvector Inc.)
+The OB.m contains the pipeline, preprocessing_methods.mat five NIR-relevant preprocessing methods and removeoutliers - a function for outlier removal based on Hotellings T2 and Q-residuals. The rest of the functionallity is engined by the PLS toolbox (ver 8.7) (Eigenvector Inc.)
